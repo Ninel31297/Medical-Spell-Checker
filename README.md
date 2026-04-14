@@ -60,7 +60,7 @@ nltk.download('stopwords')
 ## ▶️ How to Run
 
 ```bash
-python spell_checker_app.py
+python app.py
 ```
 
 Then open the browser interface automatically (or manually via Gradio link).
