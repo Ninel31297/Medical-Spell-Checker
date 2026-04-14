@@ -46,8 +46,8 @@ The system consists of three core components:
 
 ```bash
 pip install symspellpy nltk gradio pandas tqdm
-````markdown
-# Download required NLTK resources
+````
+Download required NLTK resources
 
 ```python
 import nltk
