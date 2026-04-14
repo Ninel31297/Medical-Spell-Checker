@@ -149,14 +149,14 @@ spell-checker/
 
 ## 👤 Author
 
-**Nina Galimullina**
+**Nina Strickland**
 Master’s Thesis Project — Medical NLP Systems
 
 ---
 
 ## 📜 License
 
-This project is released under the MIT License (recommended for open academic projects).
+This project is released under the MIT License.
 
 ---
 
